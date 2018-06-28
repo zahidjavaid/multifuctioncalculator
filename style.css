@@ -1,0 +1,98 @@
+body {
+	text-align: center;
+	background-color: #fd7272;
+	font-family: 'Orbitron', sans-serif;
+	margin-top: 30px;
+}
+h1 {
+	font-size: 40px;
+	font-weight: bold;
+	color: white;
+}
+
+#type {
+	margin-bottom: 100px;
+
+
+}
+#icon {
+	font-size: 50px;
+	color: white;
+	margin-left: 10px;
+
+	/*height: 100px;*/
+}
+.container {
+	width: 50%;
+
+}
+
+#btn1 {		/*plus button*/
+	border: 0px;
+}
+#btn1:hover {
+	background-color: #fd7272;
+	border-color: #fd7272;
+
+}
+#btn1:focus {
+	
+	outline: none;
+}
+#btn1:active {
+	border: 0px solid #fd7272;
+	outline: none;
+}
+
+#btn2 {
+	margin-top: 32px;
+	background-color: #17a2b8;
+	border: 0px;
+}
+#btn2:hover {
+	background-color: #138496;
+}
+#btn2:active {
+	background-color: #138496;
+}
+
+#btn3 {
+	margin-top: 32px;
+	background-color: #17a2b8;
+	border: 0px;
+}
+#btn3:hover {
+	background-color: #138496;
+}
+#btn3:active {
+	background-color: #138496;
+}
+
+#btn4 {
+	margin-top: 32px;
+	background-color: #17a2b8;
+	border: 0px;
+}
+#btn4:hover {
+	background-color: #138496;
+}
+#btn4:active {
+	background-color: #138496;
+}
+
+#btn5 {
+	margin-top: 20px;
+	background-color: #f8f9fa;
+	border: 0px;
+	width: 20%;
+	color: black;
+	font-size: 22px;
+	font-weight: bold;
+}
+#btn5:hover {
+	background-color: #dddddd;
+
+}
+#btn5:active {
+	background-color: #dddddd;
+}
